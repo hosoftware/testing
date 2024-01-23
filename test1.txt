@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DE91-6A12
+
+ Directory of C:\xampp1\htdocs\aries
+
+23/01/2024  10:50 PM    <DIR>          .
+23/01/2024  10:50 PM    <DIR>          ..
+23/01/2024  10:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,062,707,712 bytes free
